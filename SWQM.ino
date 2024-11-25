@@ -4,8 +4,8 @@
 const char* ssid = "Surya's iPhone";    // ssid name
 const char* password = "surya1230";  // password
 WiFiClient  client;
-unsigned long Channel_ID = 2243266; // thingspeak channel id
-const char * API_Key = "UZHDLKSX80VQSM9T"; // thingspeak API key
+unsigned long Channel_ID = 261466; // thingspeak channel id
+const char * API_Key = "UZSLOSN61VQSM4T"; // thingspeak API key
 unsigned long last_time = 0;
 unsigned long Delay = 10000;
 // Variables to store sensor readings
